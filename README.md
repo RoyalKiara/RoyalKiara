@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://media.giphy.com/media/3o7aCU4ubGZnWs9hy8/giphy.gif - study
+- https://media.giphy.com/media/l4FGt2iqBgZBEkDAI/giphy.gif - girl
+- https://media.giphy.com/media/mQan4KV9MNoJy/giphy.gif -sakura
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7aCU4ubGZnWs9hy8/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l4FGt2iqBgZBEkDAI/giphy.gif" width="150" />
+  <br>
   
   <div id="badges">
+    <br>
     <a href="https://www.linkedin.com/in/glory-salome-p-487360189/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
